@@ -1,0 +1,5 @@
+streamlit==1.25.0
+together==0.1.2
+PyPDF2==3.1.0
+langchain==0.0.280
+streamlit-chat==0.1.0
