@@ -21,3 +21,8 @@ Ensure you have Python installed on your machine. You also need to have the foll
 - `PyPDF2`
 - `langchain`
 - `streamlit_chat`
+
+![image](https://github.com/user-attachments/assets/0f4abe8e-383f-4ebb-9748-0095b462f553)
+
+![image](https://github.com/user-attachments/assets/1ee9aaf6-50d5-4a58-8121-d1c0ea6101d2)
+
